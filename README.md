@@ -18,6 +18,8 @@ or
 
 Project prints:
 
+![gif](https://user-images.githubusercontent.com/47576846/67420062-47d39100-f5a4-11e9-96e6-9ead81ef0d11.gif)
+
 ![1](https://user-images.githubusercontent.com/47576846/67418659-97fd2400-f5a1-11e9-892b-593c79265992.png)![2](https://user-images.githubusercontent.com/47576846/67418676-9fbcc880-f5a1-11e9-83be-713bc2568430.png)
 
 ![3](https://user-images.githubusercontent.com/47576846/67418734-bb27d380-f5a1-11e9-88be-769472644602.png)![4](https://user-images.githubusercontent.com/47576846/67418763-c7ac2c00-f5a1-11e9-8914-2e537365740f.png)
