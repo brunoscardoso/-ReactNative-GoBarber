@@ -18,9 +18,7 @@ or
 
 Project prints:
 
-![1](https://user-images.githubusercontent.com/47576846/67418659-97fd2400-f5a1-11e9-892b-593c79265992.png)
-
-![2](https://user-images.githubusercontent.com/47576846/67418676-9fbcc880-f5a1-11e9-83be-713bc2568430.png)
+![1](https://user-images.githubusercontent.com/47576846/67418659-97fd2400-f5a1-11e9-892b-593c79265992.png)![2](https://user-images.githubusercontent.com/47576846/67418676-9fbcc880-f5a1-11e9-83be-713bc2568430.png)
 
 ![3](https://user-images.githubusercontent.com/47576846/67418734-bb27d380-f5a1-11e9-88be-769472644602.png)
 
