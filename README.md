@@ -1,7 +1,5 @@
 #### React Native GoBarber
 
-This project is a challenge to the challenges taken to reinforce students' knowledge of the Rocketseat full stack course.
-
 This is the mobile part of the GoBarber application responsible for scheduling using the latest market technologies like Hooks and Redux.
 
 ### Instructions:
